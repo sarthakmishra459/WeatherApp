@@ -3,7 +3,7 @@
 This is a simple weather app built using React Native Expo CLI, Tailwind CSS for styling, and the OpenWeatherMap API to fetch real-time weather data.
 
 ## Screenshot
-![alt text]([https://github.com/sarthakmishra459/WeatherApp/tree/master/Screenshot/screenshot.jpg](https://github.com/sarthakmishra459/WeatherApp/blob/master/Screenshot/screenshot.jpg?raw=true))
+![alt text](https://github.com/sarthakmishra459/WeatherApp/blob/master/Screenshot/screenshot.jpg?raw=true)
 
 ## Table of Contents
 
